@@ -1,0 +1,99 @@
+.outerbox{
+    width: 100%;
+    height: 1000px;
+    padding: 20px;
+    background-color:black;
+}
+.formbox{
+    width: 400px;
+    height:480px ;
+    background-color:white;
+    margin:auto ;
+    margin-top: 100px;
+    padding: 20px ;
+    border-radius: 5px;
+}
+
+
+.Signup h2{
+    margin: 15px;
+    font-family:Okra, Helvetica, sans-serif ;
+    font-size: 30px;
+    font-weight: lighter;
+    color:black;
+}
+.close{
+    background-color: transparent;
+    border:0px;
+    float: right;
+    font-size: 30px;
+}
+.contentbox{
+    margin: 5px;
+
+}
+.FullName{
+    width: 385px;
+    height: 40px;
+    border-radius: 5px;
+    color: rgb(231, 227, 227);
+    border: 1px solid lightgray;
+    font-size: larger;
+    font-weight: 0px;
+    margin-top: 25px;
+}
+.Email{
+    width: 385px;
+    height: 40px;
+    border-radius: 5px;
+    color: gainsboro;
+    border: 1px solid lightgray;
+    font-size: larger;
+    margin-top: 7px;
+}
+::placeholder{
+    color: lightgray;
+}
+.Agree{
+    color: darkgray;
+    font-size: 12px;
+    font-weight: bolder;
+    font-family: Okra, Helvetica, sans-serif;
+}
+
+.terms{
+    color:rgb(233, 106, 106);
+}
+.button{
+    width:385px ;
+    height: 40px;
+    color: white;
+    background-color:lightgray;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    font-size: medium;
+    font-family: Okra, Helvetica, sans-serif;
+}
+.Button{
+    width: 385px;
+    height: 40px;
+    color: black;
+    background-color:white;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    font-size: medium;
+    font-family: Okra, Helvetica, sans-serif;
+}
+.log{
+    color: rgb(233, 106, 106);
+}
+.have-account{
+    font-size: large;
+    font-family: Okra, Helvetica, sans-serif;
+    color: darkgray;
+}
+
+hr{
+    border: 0.1px solid gainsboro;
+}
+
